@@ -22,7 +22,7 @@ Cibersegurança
 
 💻 Projetos em destaque
 
-Painel de Estudos: Aplicação pessoal para organização acadêmica, acompanhamento de matérias, prazos e sessões de estudo.
+[Painel de Estudos](https://github.com/GustavoMenezes-Hub/painel-de-estudos): Aplicação pessoal para organização acadêmica, acompanhamento de matérias, prazos e sessões de estudo.
 
 📫 Contato
 

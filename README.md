@@ -28,4 +28,4 @@ Painel de Estudos: Aplicação pessoal para organização acadêmica, acompanham
 
 GitHub: @GustavoMenezes-Hub
 
-LinkedIn: Gustavo Menezes
+LinkedIn: [Gustavo Menezes](https://www.linkedin.com/in/gustavo-menezes-923364417/)

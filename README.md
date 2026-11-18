@@ -1,16 +1,31 @@
-## Hi there 👋
+Olá! Eu sou Gustavo Menezes Araujo 👋
 
-<!--
-**GustavoMenezes-Hub/GustavoMenezes-Hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação na Universidade Federal de Sergipe (UFS), atualmente cursando o 2º período.
 
-Here are some ideas to get you started:
+Estou desenvolvendo minhas habilidades em programação e desenvolvimento de software, buscando aprender continuamente e construir projetos que resolvam problemas reais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tecnologias e ferramentas
+
+Linguagens: Python e SQL
+
+Banco de dados: PostgreSQL
+
+Versionamento: Git e GitHub
+
+📚 Atualmente estudando
+
+Desenvolvimento de software
+
+Banco de dados relacionais
+
+Cibersegurança
+
+💻 Projetos em destaque
+
+Painel de Estudos: Aplicação pessoal para organização acadêmica, acompanhamento de matérias, prazos e sessões de estudo.
+
+📫 Contato
+
+GitHub: @GustavoMenezes-Hub
+
+LinkedIn: Gustavo Menezes
